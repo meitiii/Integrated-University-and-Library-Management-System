@@ -75,6 +75,6 @@ This file also includes extensive test scenarios to demonstrate the system's fun
 ## Developers
 
 * [Arian Wahedzadegan](https://github.com/Arian84aw)
-* [Mahdi Fekri](https://github.com/mahdi1384fekri)
+* [Mahdi Fekri](https://github.com/meitiii)
 
 This project was completed for the Data Base course under the supervision of Dr. Shirin Baghoolizadeh.
